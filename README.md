@@ -1,4 +1,4 @@
-# Link para acessar a Barbearia
+## Link para acessar a Barbearia
 https://gusta346.github.io/Barbearia/
 ---
 
